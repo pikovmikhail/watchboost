@@ -1,0 +1,2 @@
+[06-Feb-2018 03:00:14 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/kukukwen/public_html/wp-content/plugins/hello.php(19) : runtime-created function on line 1061
+[07-Feb-2018 10:21:13 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/kukukwen/public_html/wp-content/plugins/hello.php(19) : runtime-created function on line 1061

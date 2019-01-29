@@ -1,0 +1,18 @@
+.price_update {
+	margin : 50px;
+}
+.price_update label {
+	width : 100px;
+}
+
+.price_update input[type="text"] {
+	width : 50px;
+}
+
+#myTabContent {
+	margin: 50px 0;
+}
+
+#setting-error-tgmpa {
+	display : none;
+}
